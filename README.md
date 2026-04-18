@@ -87,3 +87,8 @@ You can install the WheelPal app with three methods.
 > > for using the app, you can follow the steps given in the link below, for using the WheelPal app.
 > >
 > > [User guide for WheelPal App](https://carplayhacks.com/install-wheelpal/)
+
+### 4. Via Official Website (whwwlpal.app) - NEW
+>
+> > #### Using Official Website
+> > Use [WheelPal Official Website](https://wheelpal.app/) to download and install the web version of the Wheelpal for 100% Free
